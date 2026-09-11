@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DEVANSH</string>
+    <string name="accessibility_service_description">
+        DEVANSH uses this service to read what is on your screen (button labels, text fields,
+        lists) and to perform taps, typing, scrolling, and back navigation on your behalf when
+        you ask it to. It never enters passwords, OTPs, or bypasses login screens.
+    </string>
+</resources>
